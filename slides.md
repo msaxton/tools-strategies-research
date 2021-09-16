@@ -16,7 +16,7 @@ micah.saxton@tufts.edu
 #### Preliminary research
 * Preliminary research is a necessary first step to a well-crafted research question.
 * Tools for preliminary research:
-    * [Library Guide - English Literature: Resources for Graduate Research](https://tufts.libapps.com/libguides/admin_c.php?g=769182)
+    * [Library Guide - English Literature: Resources for Graduate Research](https://researchguides.library.tufts.edu/c.php?g=769182&p=5518455)
     * [Oxford Bibliographies](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=OBO)
 
 
